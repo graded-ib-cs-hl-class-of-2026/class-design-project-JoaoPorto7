@@ -10,9 +10,6 @@ public class Student {
             return name;
         }
     
-        public String toString() {
-            return name;
-        }
 
     
 }
