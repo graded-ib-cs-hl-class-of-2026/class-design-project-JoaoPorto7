@@ -17,7 +17,7 @@ public class Group {
 
         
     }
-
+    
     public int getNumStudents() {
         return numStudents;
     }
